@@ -3,5 +3,6 @@ plotly.express
 ipywidgets
 voila
 xlrd >= 1.0.0
+jupyter_contrib_nbextensions
 
 
