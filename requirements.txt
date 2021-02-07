@@ -1,0 +1,6 @@
+pandas
+plotly.express
+ipywidgets
+voila
+
+
